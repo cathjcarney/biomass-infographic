@@ -1,0 +1,46 @@
+level1,level2,level3,volume,label
+Cropping,Cereal Straw,Wheat Straw,5392697,Wheat Straw
+Cropping,Cereal Straw,Oats Straw,267968,Oats Straw
+Cropping,Cereal Straw,Barley Straw,1326688,Barley Straw
+Cropping,Cereal Straw,Sorghum Straw,231679,Sorghum Straw
+Cropping,Cereal Straw,Maize Straw,121443,Maize Straw
+Cropping,Cereal Straw,Rice Straw,548367,Rice Straw
+Cropping,Cereal Straw,Other Cereals Straw,50787,Other Cereals Straw
+Cropping,Non-cereal Straw,Cotton Straw,379640,Cotton Straw
+Cropping,Non-cereal Straw,Canola Straw,1292892,Canola Straw
+Cropping,Non-cereal Straw,Other Oilseeds Straw,34659,Other Oilseeds Straw
+Cropping,Non-cereal Straw,All Pulses Straw,154964,All Pulses Straw
+Cropping,Hay and Silage,Hay,907175,Hay
+Cropping,Hay and Silage,Silage,243932,Silage
+Cropping,Sugarcane Residues,Bagasse,249273,Bagasse
+Cropping,Sugarcane Residues,Sugarcane Trash,260985,Sugarcane Trash
+Cropping,Rice Residues,Rice Hulls,96720,Rice Hulls
+Cropping,Cotton Residues,Cotton Gin Trash,37982,Cotton Gin Trash
+Solid Organic Waste,Municipal Solid Waste (MSW),MSW Food,1576378,MSW Food
+Solid Organic Waste,Municipal Solid Waste (MSW),MSW Paper or Cardboard,706803,MSW Paper or Cardboard
+Solid Organic Waste,Municipal Solid Waste (MSW),MSW Vegetation or Compost,2869965,MSW Vegetation or Compost
+Solid Organic Waste,Municipal Solid Waste (MSW),MSW Wood or Wood Products,137252,MSW Wood or Wood Products
+Solid Organic Waste,Commercial & Industrial (C&I),C&I Food,390906,C&I Food
+Solid Organic Waste,Commercial & Industrial (C&I),C&I Paper or Cardboard,2099544,C&I Paper or Cardboard
+Solid Organic Waste,Commercial & Industrial (C&I),C&I Vegetation or Compost,701558,C&I Vegetation or Compost
+Solid Organic Waste,Commercial & Industrial (C&I),C&I Wood or Wood Products,599856,C&I Wood or Wood Products
+Solid Organic Waste,Construction & Demolition (C&D),C&D Paper or Cardboard,115911,C&D Paper or Cardboard
+Solid Organic Waste,Construction & Demolition (C&D),C&D Vegetation or Compost,135748,C&D Vegetation or Compost
+Solid Organic Waste,Construction & Demolition (C&D),C&D Wood or Wood Products,852798,C&D Wood or Wood Products
+Livestock,Manure Residues,Beef Feedlot Manure,1534048,Beef Feedlot Manure
+Livestock,Manure Residues,Dairy Manure,146723,Dairy Manure
+Livestock,Manure Residues,Piggery Manure,55746,Piggery Manure
+Livestock,Manure Residues,Poultry Manure,574567,Poultry Manure
+Forestry,Forest Harvest Residues,Native Cypress Harvest Residues,3362,Native Cypress Harvest Residues
+Forestry,Forest Harvest Residues,Native Hardwood Harvest Residues,459295,Native Hardwood Harvest Residues
+Forestry,Forest Harvest Residues,Plantation Hardwood Harvest Residues,77314,Plantation Hardwood Harvest Residues
+Forestry,Forest Harvest Residues,Plantation Softwood Harvest Residues,453093,Plantation Softwood Harvest Residues
+Forestry,Forest Sawmill Residues,Native Cypress Sawmill Residues,12179,Native Cypress Sawmill Residues
+Forestry,Forest Sawmill Residues,Native/Plantation Hardwood Sawmill Residues,219490,Native/Plantation Hardwood Sawmill Residues
+Forestry,Forest Sawmill Residues,Plantation Softwood Sawmill Residues,433612,Plantation Softwood Sawmill Residues
+Horticulture,Nut Residues,Almond Shells,2204,Almond Shells
+Horticulture,Nut Residues,Almond Hulls,7440,Almond Hulls
+Horticulture,Nut Residues,Macadamia Shells,10083,Macadamia Shells
+Horticulture,Nut Residues,Macadamia Husks,17667,Macadamia Husks
+Horticulture,Winery Residues,Grape Marc,96418,Grape Marc
+Horticulture,Winery Residues,Grape Stalks,24813,Grape Stalks
