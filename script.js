@@ -6,7 +6,7 @@ d3.csv("data/data_mod.csv").then(function(data) {
 
     new d3plus.Treemap()
         .data(data)
-        .groupby([
+        .groupBy([
             "level1",
             "level2",
             "level3"
