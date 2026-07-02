@@ -12,7 +12,9 @@ d3.csv("data/data_mod.csv").then(function(data) {
             "level3"
         ])
         .sum("volume")
-        .label("label")
+        .label(function(d){
+            return d.label;
+        })
         .color("level1")
         .select("#treemap")
         .render();
